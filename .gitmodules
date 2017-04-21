@@ -1,0 +1,3 @@
+[submodule "external/logrus"]
+	path = external/logrus
+	url = git://github.com/Sirupsen/logrus
